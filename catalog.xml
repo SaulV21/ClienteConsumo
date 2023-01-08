@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/GuiaSOAPServer/Guia?WSDL" uri="src/conf/xml-resources/web-service-references/Guia/wsdl/localhost_8080/GuiaSOAPServer/Guia.wsdl"/>
+    <system systemId="http://localhost:8080/GuiaSOAPServer/Guia?xsd=1" uri="src/conf/xml-resources/web-service-references/Guia/wsdl/localhost_8080/GuiaSOAPServer/Guia.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/ServiciosSOAP/Consultas?WSDL" uri="src/conf/xml-resources/web-service-references/Consultas/wsdl/localhost_8080/ServiciosSOAP/Consultas.wsdl"/>
+    <system systemId="http://localhost:8080/ServiciosSOAP/Consultas?xsd=1" uri="src/conf/xml-resources/web-service-references/Consultas/wsdl/localhost_8080/ServiciosSOAP/Consultas.xsd_1.xsd"/>
+</catalog>
