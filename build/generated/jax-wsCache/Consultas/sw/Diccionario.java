@@ -36,7 +36,7 @@ public class Diccionario {
     protected String palabra;
 
     /**
-     * Obtiene el valor de la propiedad palabra.
+     * Obtiene el valor de la propiedad palabra ingresada.
      * 
      * @return
      *     possible object is
